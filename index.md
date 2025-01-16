@@ -20,8 +20,7 @@ mostly about adventures in GNU/Linux.
 <ul>
 	<li><a href="{{ site.baseurl }}/contributions">Open Source Contributions</a></li>
 	<li>Email: mauricio.foliveira gmail com</li>
-	<li>IRC: mfo @ irc.freenode.net, irc.oftc.net </li>
-	<li><a href="https://www.facebook.com/mauricio.foliveira">Facebook</a></li>
+	<li>IRC: mfo @ irc.libera.chat, irc.oftc.net</li>
 	<li><a href="https://github.com/mfoliveira/">GitHub</a></li>
 	<li><a href="https://www.linkedin.com/in/mauriciofariadeoliveira/">LinkedIn</a></li>
 	<li><a href="{{ '/feed.xml' | relative_url }}">RSS</a></li>
