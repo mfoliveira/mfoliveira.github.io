@@ -2,3 +2,9 @@ baseURL: 'https://mfo.dev.br/'
 languageCode: 'en-us'
 title: 'mfo.dev.br'
 theme: 'hyde'
+
+params:
+  themeColor: 'theme-mfo'
+  layoutReverse: true
+  description: '{ir}regular expressions'
+  copyright: ' '
