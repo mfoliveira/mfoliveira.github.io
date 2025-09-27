@@ -1,6 +1,8 @@
 ---
 title:	"ppc64le on x86_64: QEMU user-mode emulation"
 date:	2018-02-03
+tags:
+- ppc64le
 ---
 
 You can run `ppc64le` binaries on your `x86_64` computer with QEMU user-mode emulation!

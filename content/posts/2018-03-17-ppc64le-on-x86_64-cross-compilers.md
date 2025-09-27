@@ -1,6 +1,8 @@
 ---
 title:	'ppc64le on x86_64: Cross Compilers'
 date:	2018-03-17
+tags:
+- ppc64le
 ---
 
 You can build `ppc64le` executables on your `x86_64` computer with a [_cross compiler_][wikipedia-cross-compiler].  

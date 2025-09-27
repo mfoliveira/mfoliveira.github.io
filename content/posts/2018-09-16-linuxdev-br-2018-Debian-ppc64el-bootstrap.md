@@ -1,6 +1,8 @@
 ---
 title:	'linuxdev-br 2018: Bootstrap of the Debian ppc64el port'
 date:	2018-09-17
+tags:
+- ppc64le
 ---
 
 The Linux Developer Conference Brazil 2018 (August 25-26th, 2018) was great!

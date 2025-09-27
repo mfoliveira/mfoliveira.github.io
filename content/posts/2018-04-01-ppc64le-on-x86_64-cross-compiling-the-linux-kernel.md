@@ -1,6 +1,8 @@
 ---
 title:	'ppc64le on x86_64: Cross crompiling the Linux kernel'
 date:	2018-04-01
+tags:
+- ppc64le
 ---
 
 Let's use the `ppc64le` [cross-compilers][post-cross-compilers] on your `x86_64` computer to build the Linux kernel!  

@@ -1,6 +1,8 @@
 ---
 title:	"Hello (ppc64le) World!"
 date:	2018-01-27
+tags:
+- ppc64le
 ---
 
 Our good old friend, Hello World:

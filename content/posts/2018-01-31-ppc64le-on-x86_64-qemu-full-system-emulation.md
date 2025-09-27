@@ -1,6 +1,8 @@
 ---
 title:	"ppc64le on x86_64: QEMU full-system emulation"
 date:	2018-01-31
+tags:
+- ppc64le
 ---
 
 You can run a `ppc64le` virtual machine on your `x86_64` computer with QEMU full-system emulation!
